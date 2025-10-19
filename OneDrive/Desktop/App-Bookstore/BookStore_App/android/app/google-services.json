@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "519881022529",
+    "firebase_url": "https://batch2208e-769d2-default-rtdb.firebaseio.com",
+    "project_id": "batch2208e-769d2",
+    "storage_bucket": "batch2208e-769d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519881022529:android:90f0fd847b033ce46afac0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-nM7Kh71a3hjPkElvjZF5WHDdAzaOzYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519881022529:android:c111e67e64a4aac46afac0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_project_2208e"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-nM7Kh71a3hjPkElvjZF5WHDdAzaOzYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
